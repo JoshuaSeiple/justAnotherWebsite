@@ -9,3 +9,8 @@ h1 {
 img{
 	display: block;
 }
+
+#title{
+	background: #ff80d5;
+	width: 600px;
+}
