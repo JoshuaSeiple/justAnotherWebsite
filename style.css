@@ -8,6 +8,8 @@ h1 {
 }
 img{
 	display: block;
+	width: 600px;
+	height: auto;
 }
 
 #title{
@@ -18,4 +20,5 @@ img{
 #main{
 	background: #33ff33;
 	width:700px;
+	height: 500px;
 }
