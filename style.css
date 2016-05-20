@@ -15,10 +15,14 @@ img{
 #title{
 	background: #ff80d5;
 	width: 600px;
+	border-radius: 10px;
 }
 
 #main{
 	background: #33ff33;
-	width:700px;
-	height: 500px;
+	width:650px;
+	height: 47x;
+	padding-top: 30px;
+	padding-left: 15px;
+	border-radius: 10px;
 }
