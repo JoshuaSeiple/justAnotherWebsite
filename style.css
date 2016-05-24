@@ -5,6 +5,8 @@ font-family: 'Raleway', sans-serif;
 
 h1 {
 	font-size: 50px;
+	margin:0px;
+	padding:0px;
 }
 img{
 	display: block;
@@ -16,7 +18,11 @@ img{
 	background: #ff80d5;
 	width: 600px;
 	border-radius: 10px;
+	margin-bottom: 10px;
+	padding:10px;
+
 }
+
 
 #main{
 	background: #33ff33;
@@ -25,4 +31,10 @@ img{
 	padding-top: 30px;
 	padding-left: 15px;
 	border-radius: 10px;
+	padding-bottom: 10px;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
 }
