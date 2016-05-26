@@ -12,6 +12,7 @@ img{
 	display: block;
 	width: 600px;
 	height: auto;
+	border-radius: 10px;
 }
 
 #title{
